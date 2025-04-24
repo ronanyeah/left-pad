@@ -1,0 +1,15 @@
+[package]
+name = "left_pad"
+edition = "2024"
+license = "MIT"
+authors = ["ronanyeah"]
+
+[dependencies]
+
+[addresses]
+left_pad = "0xea412eb7a022f269402b0955f1549e483ddb65c5a3b330d62e223255b5a5de9f"
+#left_pad = "0x0"
+
+[dev-dependencies]
+
+[dev-addresses]
